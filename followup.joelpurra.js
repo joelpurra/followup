@@ -6,7 +6,7 @@
  * A jQuery plugin to show and hide follow up questions in a form. The
  * follow ups are specified through HTML5 [data-*] attributes.
  */
-// https://gist.github.com/
+// https://gist.github.com/3024198
 //
 // USAGE
 // Include the script after jQuery has been loaded. It will check all existing form elements
