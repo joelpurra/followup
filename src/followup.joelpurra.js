@@ -27,14 +27,14 @@ var JoelPurra = JoelPurra || {};
         var $target, mode = fuq.getMode($element);
 
         switch (mode) {
-        case "sibling":
-            $target = $element.parent().find("[data-is-follow-up]");
-            break;
+            case "sibling":
+                $target = $element.parent().find("[data-is-follow-up]");
+                break;
 
-            // case "selector" is the default/fallback
-        default:
-            $target = $($element.attr("data-target"));
-            break;
+                // case "selector" is the default/fallback
+            default:
+                $target = $($element.attr("data-target"));
+                break;
         }
 
         return $target;
