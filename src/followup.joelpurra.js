@@ -3,6 +3,8 @@
  * Copyright © 2012, 2013 Joel Purra <http://joelpurra.se/>
  * Released under MIT, BSD and GPL license. Comply with at least one.
  *
+ * https://github.com/joelpurra/followup
+ *
  * A jQuery plugin to show and hide follow up questions in a form. The
  * follow ups are specified through HTML5 [data-*] attributes.
  */
