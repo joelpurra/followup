@@ -31,7 +31,7 @@ Markup for containers with multiple radio buttons inside:
 data-has-follow-ups=""
 ```
 
-Markup for a question that is [`[required]`](http://www.w3.org/WAI/GL/wiki/Techniques/HTML5/Using_the_required_attribute_to_indicate_a_required_input_field) when it is a follow up question. Normal `[required]` attributes do not work, as they input fields are hidden if they're not triggered as follow up questions.
+Markup for a question that is [`[required]`](https://www.w3.org/WAI/GL/wiki/Techniques/HTML5/Using_the_required_attribute_to_indicate_a_required_input_field) when it is a follow up question. Normal `[required]` attributes do not work, as they input fields are hidden if they're not triggered as follow up questions.
 
 ```html
 data-is-follow-up-required="required"
@@ -75,12 +75,12 @@ visibility of the follow up question `<textarea>`.
 
 
 ## Runtime dependencies
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
 
 
 
 ## License
-Copyright (c) 2012, 2013, 2014, 2015 [Joel Purra](http://joelpurra.com/)
+Copyright (c) 2012, 2013, 2014, 2015 [Joel Purra](https://joelpurra.com/)
 All rights reserved.
 
 When using FollowUp, comply to at least one of the three available licenses: BSD, MIT, GPL. Please see the `LICENSE` file for details.

@@ -1,6 +1,6 @@
 /*!
  * @license FollowUp
- * Copyright © 2012, 2013 Joel Purra <http://joelpurra.se/>
+ * Copyright © 2012, 2013 Joel Purra <https://joelpurra.se/>
  * Released under MIT, BSD and GPL license. Comply with at least one.
  *
  * https://github.com/joelpurra/followup
@@ -63,7 +63,7 @@ var JoelPurra = JoelPurra || {};
         var $target = fuq.getTarget($element);
 
         // TODO: animations? Inline elements do not animate well.
-        // http://stackoverflow.com/questions/231937/animating-inline-elements-with-jquery
+        // https://stackoverflow.com/questions/231937/animating-inline-elements-with-jquery
         if ($element.is(":checked")) {
             $target.show();
 
