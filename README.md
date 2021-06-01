@@ -4,6 +4,12 @@ A jQuery plugin to show and hide follow up questions in a form. The follow ups a
 
 
 
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Usage
 Include the script after jQuery has been loaded. It will check all existing form elements
 and automatically initilaize follow-up questions when the page has loaded.
